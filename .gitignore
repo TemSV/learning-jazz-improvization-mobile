@@ -1,15 +1,60 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+OS
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+Thumbs.db
+
+IDE
+.idea/
+*.iml
+.vscode/
+
+Gradle
+.gradle/
+build/
+*/build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+Android local configs
 local.properties
+keystore.properties
+*.jks
+*.keystore
+
+NDK / external build
+.externalNativeBuild/
+.cxx/
+
+Captures
+captures/
+
+Logs
+*.log
+
+Binaries / compiled
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.so
+*.o
+
+Kotlin/Java tooling
+.kotlinc/
+kotlin-js-store/
+
+Lint / reports
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+Jetpack Compose previews
+.compose-cache/
+
+Misc
+*.orig
+*.rej
+*.swp
+*.swo
