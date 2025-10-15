@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Learning Jazz</string>
+
+    <!-- Songs Screen -->
+    <string name="songs_screen_title">Compositions</string>
+    <string name="error_placeholder">Error: %s</string>
+
+    <!-- Song Detail Screen -->
+    <string name="back_button_description">Back</string>
+    <string name="highlight_patterns_button_description">Highlight Patterns</string>
+    <string name="no_recommendations_found">No recommendations found.</string>
+    <string name="recommended_phrases_title">Recommended Phrases</string>
+    <string name="play_phrase_description">Play phrase</string>
+    <string name="stop_playback_description">Stop playback</string>
+    <string name="phrase_source_placeholder">from \"%s\"</string>
+</resources>

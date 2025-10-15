@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Джазовое обучение</string>
+
+    <!-- Songs Screen -->
+    <string name="songs_screen_title">Композиции</string>
+    <string name="error_placeholder">Ошибка: %s</string>
+
+    <!-- Song Detail Screen -->
+    <string name="back_button_description">Назад</string>
+    <string name="highlight_patterns_button_description">Выделить паттерны</string>
+    <string name="no_recommendations_found">Рекомендации не найдены.</string>
+    <string name="recommended_phrases_title">Рекомендованные фразы</string>
+    <string name="play_phrase_description">Воспроизвести фразу</string>
+    <string name="stop_playback_description">Остановить воспроизведение</string>
+    <string name="phrase_source_placeholder">из \"%s\"</string>
+</resources> 
