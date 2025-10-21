@@ -71,8 +71,11 @@
 
 ## Скриншоты
 
-- assets/screen1.png — список песен (результат GET /api/songs)
-- assets/screen2.png — аккордовая сетка (GET /api/songs/{song_id}/chords)
-- assets/screen3.png — подсветка паттернов (GET /api/songs/{song_id}/patterns)
-- assets/screen4.png — рекомендации (POST /api/recommendations/phrases)
-- assets/screen5.png — проигрывание фразы (GET /api/phrases/{melid}/notes)
+![Список песен — результат GET /api/songs](assets/screen1.png)
+
+![Аккордовая сетка — GET /api/songs/{song_id}/chords](assets/screen2.png)
+
+![Подсветка паттернов — GET /api/songs/{song_id}/patterns](assets/screen3.png)
+
+![Рекомендации — POST /api/recommendations/phrases](assets/screen4.png)
+
